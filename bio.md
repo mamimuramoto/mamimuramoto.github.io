@@ -1,5 +1,5 @@
-
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Bangkok.jpg" width="240px"> :left # Biography                                                                                                                                                             
+ # Biography  
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Bangkok.jpg" width="240px">                                                                                                                                                           
 #### Name           : Mami
 #### Place Of Birth : Iwakuni, Japan  
 -----------------------------------------------------------------
@@ -8,10 +8,7 @@ Born in Iwakuni-city, Japan, I spent my childhood there. When I was four years o
 When I was a university student, I was impressed by [Kotaro Sawaki](https://www.japantimes.co.jp/tag/kotaro-sawaki/)
 's book "Midnight Express" which is a young man's diary on a journer. His purpose is travering from New Delhi to London by bus. I knew this type of trip called backpacker for the first time.
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="240px">
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Santiago Atitlan.jpg" width="240px">
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Oaxaca.jpg" width="320px">
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="480px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="180px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Santiago Atitlan.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Oaxaca.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="480px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Guanajuato.jpg" width="180px">
 
 Those things are what got me into travel. I have traveled to over 30 countries so far.
 
