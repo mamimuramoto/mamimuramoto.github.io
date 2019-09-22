@@ -2,11 +2,11 @@
 #### Name           : Mami
 #### Place Of Birth : Iwakuni, Japan
 -----------------------------------------------------------------
-Born in Iwakuni-city, Japan, I spent my childhood there. When I was four years old, our family moved to Chiba Prefecture because of my father's job which is chemical engineer. Our family lived travel, so we wnt to almost all Kanto areas by car, which were a highly pleasurable wxperince for me.
+Born in Iwakuni-city, Japan, I spent my childhood there. When I was four years old, our family moved to Chiba Prefecture because of my father's job which is chemical engineer. Our family loved travel, so we went to almost all Kanto areas by car, which were a highly pleasurable experience for me.
 
 
-When I was a university student, I was impressed by Kotaro Sawaki's book "Midnight Express" which is a young man's diary on a journer. His purpose is travering from New Delhi to London by bus. I knew this yype of trip called backpacker for the first time.
-
+When I was a university student, I was impressed by Kotaro Sawaki's book "Midnight Express" which is a young man's diary on a journer. His purpose is travering from New Delhi to London by bus. I knew this type of trip called backpacker for the first time.
+[Kotaro Sawaki](https://www.japantimes.co.jp/tag/kotaro-sawaki/)
 
 Those things are what got me into travel. I have traveled to over 30 countries so far.
 
