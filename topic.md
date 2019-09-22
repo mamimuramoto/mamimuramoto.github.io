@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
 
 
 
