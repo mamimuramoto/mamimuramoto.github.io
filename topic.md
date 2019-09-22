@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/LA2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite3.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite4.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yoemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite3.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite4.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
 
 
 
@@ -15,7 +15,7 @@ I enjoyed city and nature.
 -------------------------------------------------------------------------------------
 I walked the mountain trail which seems to reach the sky!
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang .jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
 
 
 
