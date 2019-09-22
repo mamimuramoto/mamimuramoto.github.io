@@ -15,7 +15,7 @@ I enjoyed city and nature.
 -------------------------------------------------------------------------------------
 I walked the mountain trail which seems to reach the sky!
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走４.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１６.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１３.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１０.jpg" width="px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１４.jpg" width="240px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走４.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１６.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１３.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１０.jpg" width="px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１４.jpg" width="240px">
 
 
 
