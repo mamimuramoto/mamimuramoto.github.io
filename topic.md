@@ -13,7 +13,7 @@ I enjoyed city and nature.
 ## August 10 ~ 17
 ### Nagano Pre., Japan [uraginza traverse trail](http://www.japan-alps.com/map/map_english.pdf)
 -------------------------------------------------------------------------------------
-I walked the mountain trail which seems to reach the sky![The Japan alps info](http://www.japan-alps.com/en/)
+I walked the mountain trail which seems to reach the sky! [The Japan alps info] (http://www.japan-alps.com/en/)
 
 <img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0843.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0845.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0849.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１３.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0850.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0854.jpg" width="280px">
 
