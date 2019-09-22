@@ -1,6 +1,6 @@
 # My Trip 2019
 ## April 26 ~ May 5
-### Los angels & Yosemite National Park, the U.S
+### Los angels & [Yosemite National Park](https://www.nps.gov/yose/index.htm), the U.S
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
