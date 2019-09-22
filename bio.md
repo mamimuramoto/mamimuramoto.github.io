@@ -3,4 +3,4 @@
 +Place Of Birth Iwakuni, Japan
 +Birth Date    December 21
 
-[Home](index)
+[index](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/index.md)
