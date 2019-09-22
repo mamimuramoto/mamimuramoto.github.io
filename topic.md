@@ -3,7 +3,7 @@
 ### Los angels & Yosemite National Park, the U.S
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
-
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
 
 
 
@@ -13,3 +13,9 @@ I enjoyed city and nature.
 ### Nagano Pre., Japan
 -------------------------------------------------------------------------------------
 I walked the mountain trail which seems to reach the sky!
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Luang Prabang1.jpg" width="240px">
+
+
+
+
+[index]
