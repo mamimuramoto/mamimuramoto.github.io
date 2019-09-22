@@ -1,4 +1,4 @@
-# Biography<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Bangkok.jpg" width="240px">
+# Biography                                                                                                                                                             <img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Bangkok.jpg" width="240px">
 #### Name           : Mami
 #### Place Of Birth : Iwakuni, Japan  
 -----------------------------------------------------------------
