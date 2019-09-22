@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite3.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite4.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
+<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0545.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0623.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
 
 
 
