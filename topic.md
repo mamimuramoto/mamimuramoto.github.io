@@ -11,7 +11,7 @@ I enjoyed city and nature.
 
 
 ## August 10 ~ 17
-### Nagano Pre., Japan
+### Nagano Pre., Japan ~uraginza trail[~
 -------------------------------------------------------------------------------------
 I walked the mountain trail which seems to reach the sky!
 
