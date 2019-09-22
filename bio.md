@@ -4,7 +4,6 @@
 -----------------------------------------------------------------
 Born in Iwakuni-city, Japan, I spent my childhood there. When I was four years old, our family moved to Chiba Prefecture because of my father's job which is chemical engineer. Our family loved travel, so we went to almost all [Kanto areas](https://www.jetro.go.jp/en/ind_tourism/kanto.html) by car, which were a highly pleasurable experience for me.
 
-
 When I was a university student, I was impressed by [Kotaro Sawaki](https://www.japantimes.co.jp/tag/kotaro-sawaki/)
 's book "Midnight Express" which is a young man's diary on a journer. His purpose is travering from New Delhi to London by bus. I knew this type of trip called backpacker for the first time.
 
