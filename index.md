@@ -8,6 +8,6 @@
 
 
 
-[biography](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/bio.md)
+[biography](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/bio)
 
 [topic](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/topic.md)
