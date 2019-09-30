@@ -17,4 +17,4 @@ I am also into hiking. whenever I have consecutive holidays, I go hiking.
 
 
 
-[index](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/index.md)
+[HOME](index)
