@@ -22,4 +22,4 @@ I walked the mountain trail which seems to reach the sky!
 ***Continue to next time***
 I would like to upload Hiroshima's trails!
 
-[index](https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/index.md)
+[HOME](index)
