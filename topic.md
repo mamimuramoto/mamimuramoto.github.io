@@ -1,8 +1,13 @@
+
 # My Trip 2019
 ## April 26 ~ May 5
 ### Los Angels & [Yosemite National Park](https://www.nps.gov/yose/index.htm), the U.S
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
+
+![image test](Yosemite1.jpg)
+![image test](Yosemite2.jpg)
+
 
 <img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0545.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0623.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
 
