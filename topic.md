@@ -5,8 +5,8 @@
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
-![image test](Yosemite1.jpg)
-![image test](Yosemite2.jpg)
+![image test](Yosemite1s.jpg)
+![image test](desert1s.jpg)
 
 
 <img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0545.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0623.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
