@@ -5,11 +5,11 @@
 -----------------------------------------------------------------------------------
 I enjoyed city and nature.
 
-![image test](Yosemite1s.jpg)
-![image test](desert1s.jpg)
+![image](Yosemite1s.jpg =100x100)
+![image](desert1s.jpg =100x100)
 
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite1.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite2.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0545.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0623.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite5.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/Yosemite6.jpg" width="240px">
+![image](Yosemite1.jpg =100x100)![image](Yosemite2.jpg =100x100)![image](jMG_0545.jpg =100x100)![image](IMG_0623.jpg =100x100) ![image](Yosemite5.jpg =100x100)![image](Yosemite6.jpg =100x100)
 
 
 
@@ -21,7 +21,7 @@ I enjoyed city and nature.
 I walked the mountain trail which seems to reach the sky!
 [The Japan alps info](http://www.japan-alps.com/en/)
 
-<img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0843.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0845.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0849.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/裏銀座縦走１３.jpg" width="240px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0850.jpg" width="320px"><img src="https://github.com/mamimuramoto/mamimuramoto.github.io/blob/master/IMG_0854.jpg" width="280px">
+![image](IMG_0843.jpg =200x150)![image](IMG_0845.jpg =100x100)![image](IMG_0849.jpg =100x100)![image](裏銀座縦走１３.jpg =200x200)![image]( IMG_0850.jpg =100x100)![image](IMG_0854.jpg =200x200)
 
 
 ***Continue to next time***
