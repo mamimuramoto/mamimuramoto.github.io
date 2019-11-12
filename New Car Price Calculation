@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <title>Page Title</title>
+  </head>
+  <body>
+     <script>
+     var fBase, sEntry, fEngine, fRadio = 0;
+     fBase = ParseInt(window.prompt("Enter Base Price of the car","?"));
+     sEntry = window. prompt ("Select Engine:\n "[4]= 4 cylinder "
+      + "[6] = 6 cylinder [8] = 8 cylinder [D] = Diesel", "4");
+      if(sEntry =="6") fEngine = 150;
+      else if (sEntry =="8") fEngine = 475;
+      else if (sEntry =="D" || sEntry =="d") fEngine = 750;
+      else fEngine = 0;
+      sEntry  window.prompt("Select Audio :\n[R] = Radio"
+      + " [C] = Radio+CD [G] = Radio+CD+GPS", "R");
+      if(sEntry == "C" || sEntry =="c") fRadio = 100;
+      else if (sEntry =="G" || sEntry =="g") fRadio = 400;
+      var fPrice = fBase + fEngine + fRadio;
+      document.write("<h2>Cost of Car = " + fPrice + "</h2>");
+      </script>
+   </body>
+</html>
