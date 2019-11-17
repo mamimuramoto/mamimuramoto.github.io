@@ -7,7 +7,7 @@
 <body>
     <h1> Pay Check Program</h1>
     <p> by Mami Muramoto</p>
-    <h2>please input your name, SSN, wage per hours and total hours worked thus week!</h2>
+    <p>Please input your name, SSN, wage per hours, and total hours worked this week!</p>
     <script>
     var fGross, fTax, fNet;
     var sName = window.prompt("Enter your name", "");
@@ -29,7 +29,7 @@
     }
     document.write("<h2> withholding Tax =" + fTax + "</h2>");
     fNet = fGross + fTax;
-    document.write("<h1>This week's" + sName + sSSN + "is" + fTax + "</h1>");
+    document.write("<h1>This week's" +  sName  +  sSSN  + "'s Paycheck is" +  fNet  + "</h1>");
     </script>
   </body>
 </html>
