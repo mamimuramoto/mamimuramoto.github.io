@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+   <title>Pay check</title>
+</head>
+<body>
+    <h1> Pay Check Program</h1>
+    <p> by Mami Muramoto</p>
+    <h2>please input your name, SSN, wage per hours and total hours worked thus week!</h2>
+    <script>
+    var fGross, fTax, fNet;
+    var sName = window.prompt("Enter your name", "");
+    var sSSN = window.prompt("Enter your SSN", "");
+    var fWage = parseFloat(prompt("Enter your wage", "0"));
+    var fHours = parseFloat(prompt("Enter your hours","0"));
+    if (fHours <= 40) {
+    fGross = fWage * fHours;
+    }
+    else {
+    fGross = fWage * fHours + (fHours - 40)*0.5*fWage;
+    }
+    document. write("<h2> Gross = " + fGross + "</h2>");
+    if(fGross <= 1000) {
+    fTax = fGross * 0.15;
+    }
+    else {
+    fTax = fGross * 0.25;
+    }
+    document.write("<h2> withholding Tax =" + fTax + "</h2>");
+    fNet = fGross + fTax;
+    document.write("<h1>This week's" + sName + sSSN + "is" + fTax + "</h1>");
+    </script>
+  </body>
+</html>
+    
+    
+    
