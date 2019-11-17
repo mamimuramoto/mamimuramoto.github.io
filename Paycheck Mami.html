@@ -28,8 +28,8 @@
     fTax = fGross * 0.25;
     }
     document.write("<h2> withholding Tax =" + fTax + "</h2>");
-    fNet = fGross + fTax;
-    document.write("<h1>This week's" +  sName  +  sSSN  + "'s Paycheck is" +  fNet  + "</h1>");
+    fNet = fGross - fTax;
+    document.write("<h1>This week's"<br> +  sName  +  sSSN  + "'s Paycheck is" +  fNet  + "</h1>");
     </script>
   </body>
 </html>
