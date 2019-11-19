@@ -14,6 +14,10 @@
     var sSSN = window.prompt("Enter your SSN", "");
     var fWage = parseFloat(prompt("Enter your wage", "0"));
     var fHours = parseFloat(prompt("Enter your hours","0"));
+    document.write("<h2>Name :" + sName + "</h2>");
+    document.write("<h2>SSN :" + sSSN + "</h2>");
+    document.write("<h2>Wage :" + fWage + "</h2>");   
+    document.write("<h2>Working hours :" + fHours + "</h2>");       
     if (fHours <= 40) {
     fGross = fWage * fHours;
     }
@@ -25,7 +29,7 @@
     fTax = fGross * 0.15;
     }
     else {
-    fTax = fGross * 0.25;
+    fTax = 150 + (fGross -1000)*0.25 
     }
     document.write("<h2> withholding Tax =" + fTax + "</h2>");
     fNet = fGross - fTax;
