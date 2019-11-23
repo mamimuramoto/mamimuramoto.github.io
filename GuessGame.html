@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Guessing Game Program</title>
+  </dead>
+  <body>
+     <p>Guessing number program</P>
+     <script>
+     var sNumber, nAttempt, nComment, nCount=0;
+     while(nCount<= 4)
+     {
+     sNumber =  Math.floor(Math.random()*11);
+     nAttempt = parseInt(window.prompt("Guess number between 9 to 0 and prompt it!!",""));
+     nCount++;
+     if(nAttempt == > "sNumber")
+     {
+     document.write("<p>" "Attempt number =   " + nAttempt + "  is TOO HIGH.");
+     }
+     else if(nAttempt == < "sNumber")
+     {
+     document.write("<p>" "Attempt number =   " + nAttempt + "  is TOO LOW.");
+     }
+     else(nAttempt == "sNumber")
+     {
+     document.write("<p>" "Attempt number =   " + nAttempt + "  is correct. You win!!");
+     }
+     }
+     document.write("<h2>" "You lose.""</h2>");
+     </script>
+  </body>
+</html>
+     
+     
+    
