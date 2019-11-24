@@ -8,24 +8,21 @@
      <h2>Guessing number program</h2>
      <script>
      var sNumber, nAttempt, nComment, nCount=0;
-     do
-     {
      sNumber =  Math.floor(Math.random()*11);
      nAttempt = parseInt(window.prompt("Guess number between 9 to 0 and prompt it!!",""));
      nCount++;
+     while(nAttempt <= 4)
+     {
      if(nAttempt == > "sNumber")
      {
      document.write("<p>" "Attempt number =   " + nAttempt + "  is TOO HIGH.");
-     }
      else if(nAttempt == < "sNumber")
-     {
      document.write("<p>" "Attempt number =   " + nAttempt + "  is TOO LOW.");
-     }
      else(nAttempt == "sNumber")
-     {
+       break;
      document.write("<p>" "Attempt number =   " + nAttempt + "  is correct. You win!!");
      }
-     }while (nCount =< 4)
+     }
      document.write("<h2>" "You lose.""</h2>");
      </script>
   </body>
