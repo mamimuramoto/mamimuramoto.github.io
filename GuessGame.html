@@ -7,11 +7,11 @@
   <body>
      <h2>Guessing number program</h2>
      <script>
-     var sNumber, nAttempt, nCount;
-     sNumber = document.write(Math.floor(Math.random()*11));
-     nAttempt = parseInt(window.prompt("Guess number between 9 to 0 and prompt it!!","")); 
-     for(nCount = 1; nCount < 5; nCount++ )
+     var sNumber, nAttempt, nCount =0;
+     while(nCount < 5)
      {
+     sNumber = Math.floor(Math.random()*11);
+     nAttempt = parseInt(window.prompt("Guess number between 9 to 0 and prompt it!!","")); 
      if(nAttempt == > "sNumber")
      {
      document.write("<p>" "Attempt number =   " + nAttempt + "  is TOO HIGH.");
