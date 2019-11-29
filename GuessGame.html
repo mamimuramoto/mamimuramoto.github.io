@@ -10,7 +10,7 @@
      var sNumber, nAttempt, nCount=0;     
      sNumber =Math.floor(Math.random()*10);   
      nCount = nCount + 1;
-     while(nCount < 3)
+     while(nCount < 4)
      {   
      nAttempt = parseInt(window.prompt("Guess number between 9 to 0 and prompt it!!","")); 
      if(nAttempt == sNumber){
@@ -26,7 +26,12 @@
      alert("TOO High");
      }
      }  
+     if(nAttempt == sNumber){
+     document.write("<p> Great for you! "); 
+     }
+     else{
      document.write("<h2> You lose.</h2>");
+     }
      </script>
   </body>
 </html>
