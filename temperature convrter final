@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <meta charset="utf=8">
+  <title>Temperature Conversion Program FINAL</title>
+</head>
+<body>
+   <h1>Temperature Converter FINAL Program </h1>
+   <script>
+   function conveter() 
+   {
+   var cTemp, fTemp, fResult;
+   cTemp = window.prompt("Is entry degrees C or F?", "0");
+   if (cTemp == "C" || cTemp == "c")
+   {
+   fTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
+   fResult = fTemp * 9/5 + 32;
+   document.write("<p>" + fTemp + "C =" + fResult + " F ");
+   }
+   else{
+   fTemp = parseFloat(window.prompt("Enter F degrees:", "0"));
+   fResult = (fTempt - 32)*5/9;
+   document.write("<p>" + fTemp + "F =" + fResult + " C ");
+   }
+   }
+   converter();
+   </script>
+</body>
+</html>
+   
