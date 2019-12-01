@@ -1,30 +1,13 @@
 <!DOCTYPE>
 <html lang="en">
   <head>
-     <meta charset="utf=8">
-     <title>Temperature Convertion Program FINAL</title>
+  <meta charset="utf=8">
+  <title>Temperture convereter FINAL</title>
   </head>
-  <body>
-     <h1>Temperature Convertion FINAL C to F, F to C</h1>
-  <script>
-  function converter(){
-  var cTemp, fTemp, fResult;
-  cTemp = window.prompt ("Is entry degrees C or F?", "0");
-  if (cTemp =="C" || cTemp =="c")
-  {
-  fTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
-  fResult = fTempt*9/5 + 32;
-  document.write("<p>" + fTempt + "C ="  + fResult + " F ");
-  }
-  else
-  {
-  fTemp = parseFloat(window.prompt("Enter F degrees:", "0"));
-  fResult =(fTempt - 32)*5/9;
-  document.write("<p>" + fTempt + "F = " + fResult + " C ");
-  }
-  }
- </script>
- </body>
-</html>
+<body>
+   <h1>Temperature Converter FINAL C to F, F to C</h1>
+<script>
+ function converter(){
+ var cTemp, fTemp, fResult;
  
   
