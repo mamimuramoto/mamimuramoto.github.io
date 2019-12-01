@@ -8,9 +8,9 @@
      <h1>Temperature Convertion FINAL C to F, F to C</h1>
   <script>
   function converter(){
-  Var ctemp, fTemp, fResult;
+  var cTemp, fTemp, fResult;
   cTemp = window.prompt ("Is entry degrees C or F?", "0");
-  if (Ctemp =="C" || cTemp =="c")
+  if (cTemp =="C" || cTemp =="c")
   {
   fTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
   fResult = fTempt*9/5 + 32;
