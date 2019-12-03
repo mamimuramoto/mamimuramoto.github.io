@@ -13,7 +13,7 @@
    {
    fTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
    //fResult = fTemp * 9/5 + 32;
-   document.write("<p>" + fTemp + "C =" + fResult + " F ");
+   document.write("<p>" + fTemp + "C =" + CtoF(cTemp) + " F ");
    }
    else
    {
