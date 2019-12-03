@@ -12,13 +12,13 @@
    if (cTemp == "C" || cTemp == "c")
    {
    fTemp = parseFloat (window.prompt("Enter C degrees:", "0"));
-   fResult = fTemp * 9/5 + 32;
+   //fResult = fTemp * 9/5 + 32;
    document.write("<p>" + fTemp + "C =" + fResult + " F ");
    }
    else
    {
    fTemp = parseFloat(window.prompt("Enter F degrees:", "0"));
-   fResult = (fTemp - 32)*5/9;
+   //fResult = (fTemp - 32)*5/9;
    document.write("<p>" + fTemp + "F =" +FtoC(fTemp) + " C ");
    }
    function FtoC(F)
@@ -26,6 +26,12 @@
    var result;
    result = F*9/5 +32;
    return 
+   }
+   function CtoF(C)
+   {
+   var result;
+   result = (C 32)*5/9;
+   return
    }
    </script>
 </body>
