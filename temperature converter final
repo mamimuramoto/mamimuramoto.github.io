@@ -19,8 +19,14 @@
    {
    fTemp = parseFloat(window.prompt("Enter F degrees:", "0"));
    fResult = (fTemp - 32)*5/9;
-   document.write("<p>" + fTemp + "F =" + fResult + " C ");
+   document.write("<p>" + fTemp + "F =" +FtoC(fTemp) + " C ");
    }
+   function FtoC(F)
+   {
+   var result;
+   result = F*9/5 +32;
+   return 
+   
    </script>
 </body>
 </html>
