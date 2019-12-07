@@ -30,7 +30,7 @@
    function CtoF(C)
    {
    var result;
-   result = cTemp*9/5 +32;
+   result = fTemp*9/5 +32;
    return result;
    }
    </script>
