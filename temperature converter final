@@ -24,13 +24,13 @@
    function FtoC(F)
    {
    var result;
-   result = C*9/5 +32;
+   result = fTemp*9/5 +32;
    return result;
    }
    function CtoF(C)
    {
    var result;
-   result = (F - 32)*5/9;
+   result = (cTemp - 32)*5/9;
    return result;
    }
    </script>
