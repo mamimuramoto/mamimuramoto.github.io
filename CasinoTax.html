@@ -11,7 +11,7 @@
         nReceipts = getReceipts();
         document.write("<h3>Total Receipts = $ " + nReceipts + "</h3><hr>");
         nChipsum = getChips(sChipcolor, nChipvalue);
-        document.write("Total Value Chips = $ " + nChipsum + "</h3><hr>");
+        document.write("<h3>Total Value Chips = $ " + nChipsum + "</h3><hr>");
         nWinnings = nChipsum - nReceipts;
         displayresults(nChipsum, nWinnings);
         
