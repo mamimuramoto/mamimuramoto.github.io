@@ -19,7 +19,7 @@
         function getReceipts() {
            var nSum = 0;
            for ( var nI = 1; nI < 100; nI++) {
-                 var nEntry = parseInt (window. prompt("Enter Receipts " + nI + " or Q to Quit", ""));
+                 var nEntry = parseInt (window.prompt("Enter Receipts " + nI + " or Q to Quit", ""));
                  if (isNaN(nEntry))
                      break;
                  if (nEntry < 0) {
@@ -33,7 +33,7 @@
            }
           function getChips(sColor, nValue) {
               var nSum = 0;
-              for ( var nI = 0; nI < sColor.length; nI++) {
+              for (var nI = 0; nI < sColor.length; nI++) {
                   var nEntry = parseInt(window.prompt("How many " + sColor[nI]+" chips?", "0"));
                   document.write(sColor[nI] + " Chips: Quantity = " + nEntry
                     + " and Value = $" + (nEntry * nValue[nI]) + "<br />");
