@@ -45,7 +45,7 @@
           function displayresults(nTotal, nWin) {
               var fTax = 0.0, sSSN="000-00-0000",fCashout;
               if(confirm("Are you a CMNI residents?\n(10% withholding Tax)")){
-                 fTax = nwin * 0.10;
+                 fTax = nWin * 0.10;
                  sSSN = prompt("Enter your social Security Number", "00-00-0000");
             }
            else if(confirm("Are you a USA or Guam resident?\n
@@ -56,8 +56,7 @@
           
               if(nWin >=0) {
                  document.write("<h2>Congratulations you won $" + nWin + "</h2>");
-                 document.write( ",</h2><p>Please come back! We want our money back</P>");
-                
+                 document.write( ",</h2><p>Please come back! We want our money back</P>");  
               }
               else {
                   fTax=0;
