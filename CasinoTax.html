@@ -61,30 +61,8 @@
               else if(nWon < 0) {
                  document.write("<h2>You lose!"</h2>");
                  document.write("You broke even. Please come back for more.");
-              }
-              if (nWon > 0) {
-                  alert(" You are a Winner! US Federal Withholding Tax of 20%\n"
-                     + " is applied on winnings if US Resident/Citizen\n"
-                     + "Exemption : Residents of CNMI Withholding Tax of 10%");
-                  if(confirm("Apply U.S. 20% Withholding Tax")) {
-                     fTax = nWon * 0.20;
-                     sSSN = prompt ("Enter your Social Security Number", "000-00-0000");
-                     document.write("<h2>Your Cash Out = $" + (nValue - fTax) + "</h2>");
-                     document.write("<h2>Tax withheld = $" + fTax + " for SSN = " + sSSN + "</h2>");
-                  }
-                  else if (confirm("Apply CNMI 10% withholding Tax")) {
-                     fTax = nwon * 0.10;
-                      sSSN = prompt ("Enter your Social Security Number", "000-00-0000");
-                      document.write("<h2>Your Cash Out = $" + (nValue - fTax).toFixed(2) + "</h2>");
-                      document.write("<h2>Tax Withheld = $" + fTax.toFixed(2) + " for SSN = " + sSSN + "</h2>");
-                  }
-                  else
-                  {
-                      document.write("<h2>Your Cash Out = $" + (nValue) + "</h2>");
-                  }
-                  document.write("<p>Congulatulations you won $" + nWon
-                         + ". Please come back ! We want our money back.</p>");
-                 }
+              }     
+             document.write("<h2>Your Cash Out = $" + (nValue) + "</h2>");          
               }
         </script>
     </body>
