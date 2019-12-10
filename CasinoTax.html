@@ -42,7 +42,7 @@
                 }
                 return nSum;
              }
-          function displayresults(nValue, nWin) {
+          function displayresults(nTotal, nWin) {
               var fTax = 0.0, sSSN="000-00-0000",fCashout;
               if(confirm("Are you a CMNI residents?\n(10% withholding Tax)"){
                  fTax = nwin * 0.10;
@@ -53,16 +53,16 @@
                  fTax = nWin * 0.20;
                 sSSN = prompt("Enter your Social Security Number","000-00-0000");
               }               
-              if(nWon >=0) {
-                 document.write("<h2>Congratulations you won $" + nValue + "</h2>");
+              if(nWin >=0) {
+                 document.write("<h2>Congratulations you won $" + nTotal + "</h2>");
                  document.write( ",</h2><p>Please come back! We want our money back</P>");
-               
+                
               }
-              else if(nWon < 0) {
+              else if(nWin < 0) {
                  document.write("<h2>You lose!"</h2>");
                  document.write("You broke even. Please come back for more.");
               }     
-             document.write("<h2>Your Cash Out = $" + (nValue) + "</h2>");          
+             document.write("<h2>Your Cash Out = $" + (nTotal) + "</h2>");          
               }
         </script>
     </body>
