@@ -64,7 +64,7 @@
               }
               else {
                   fTax=0;
-                  document.write("<p>Sorry you lost $" + (-nwin) + ", but we like your money.</p>");
+                  document.write("<p>Sorry you lost $" + (-nWin) + ", but we like your money.</p>");
               }
               fCashout = nTotal - fTax;
               document.write("<p> Tax withheld = $" + fTax + "for SSN + </p>");
