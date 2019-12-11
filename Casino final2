@@ -67,7 +67,7 @@
                   document.write("<p>Sorry you lost $" + (-nWin) + ", but we like your money.</p>");
               }
               fCashout = nTotal - fTax;
-              document.write("<p> Tax withheld = $" + fTax + "for SSN + </p>");
+              document.write("<p> Tax withheld = $" + fTax + "for SSN" + "</p>");
               document.write("<h3>Your Cash Out  $" + fCashout + "</h3>");
               }
         </script>
