@@ -54,10 +54,6 @@
                     fTax = nWin * 0.20;
                     sSSN = prompt("Enter your Social Security Number","000-00-0000");
                 } 
-                else
-                {
-                fTax = nWin * 0.0;
-                }
               if(nWin >=0) {
                  document.write("<h2>Congratulations you won $" + nWin + "</h2>");
                  document.write( "<p>Please come back! We want our money back</P>");  
