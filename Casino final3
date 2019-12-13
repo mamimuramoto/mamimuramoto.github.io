@@ -55,7 +55,7 @@
                      document.write( "<p>Please come back! We want our money back</P>");  
                 }
                 else {
-                     fTax = 0;
+                     fTax = 0.0;
                     sSSN = prompt("Enter your social Security Number", "000-00-0000");
                     document.write("<p>Sorry you lost $" + (-nWin) + ", but we like your money.</p>");
                     }  
@@ -68,13 +68,13 @@
                     document.write( "<p>Please come back! We want our money back</P>");  
                 } 
                 else {
-                    fTax = 0;
+                    fTax = 0.0;
                     sSSN = prompt("Enter your social Security Number", "000-00-0000");
                     document.write("<p>Sorry you lost $" + (-nWin) + ", but we like your money.</p>");
                 }
              }
               else {
-                  fTax=0;
+                  fTax=0.0;
                   sSSN = prompt("Enter your passport number", "000-00-0000");     
               }
               fCashout = nTotal - fTax;
