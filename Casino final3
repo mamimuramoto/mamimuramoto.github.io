@@ -77,10 +77,11 @@
                   fTax=0.0;
                   sSSN = prompt("Enter your passport number", "000-00-0000");     
               }
+            }
               fCashout = nTotal - fTax;
               document.write("<p> Tax withheld = $" + fTax + "for SSN </p>");
               document.write("<h3>Your Cash Out  $" + fCashout + "</h3>");
-              }
+    
         </script>
     </body>
 </html>
