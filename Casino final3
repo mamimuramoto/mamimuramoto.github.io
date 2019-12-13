@@ -9,11 +9,11 @@
         var sChipcolor = new Array("Black", "Blue", "Red", "Green", "Gold");
         var nChipvalue = new Array(5,20,50,100,500);
         var nReceipts, nChipsum, nWinnings;
-        document.write("<h1> Welcome to the Casino Chip Coumter</h1>");
+        document.write("<h1> Welcome to the Casino Chip Counter</h1>");
         nReceipts = getReceipts();
-        document.write("<h3>Total Receipts = $ " + nReceipts + "</h3><hr>");
+        document.write("<h3>Total Receipts = $ " + nReceipts + "</h3>");
         nChipsum = getChips(sChipcolor, nChipvalue);
-        document.write("<h3>Total Value Chips = $ " + nChipsum + "</h3><hr>");
+        document.write("<h3>Total Value Chips = $ " + nChipsum + "</h3>");
         nWinnings = nChipsum - nReceipts;
         displayresults(nChipsum, nWinnings);
       
@@ -39,7 +39,7 @@
               for (var nI = 0; nI < sColor.length; nI++) {
                   var nEntry = parseInt(window.prompt("How many " + sColor[nI]+" chips?", "0"));
                   document.write(sColor[nI] + " Chips: Quantity = " + nEntry
-                    + " and Value = $" + (nEntry * nValue[nI]) + "<br />");
+                    + " and Value = $" + (nEntry * nValue[nI]) );
                   nSum += nEntry * nValue[nI];
                 }
                 return nSum;
