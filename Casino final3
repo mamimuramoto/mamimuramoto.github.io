@@ -81,7 +81,7 @@
               fCashout = nTotal - fTax;
               document.write("<p> Tax withheld = $" + fTax + "for SSN </p>");
               document.write("<h3>Your Cash Out  $" + fCashout + "</h3>");
-    }
+    
         </script>
     </body>
 </html>
