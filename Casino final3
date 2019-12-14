@@ -5,7 +5,7 @@
         <title>Casino Chip Counter final</title>
     </head>
     <body style = "background-color: #000000; text-align: center;">
-    <script>
+    <script type="text/javascript">
         var sChipcolor = new Array("Black", "Blue", "Red", "Green", "Gold");
         var nChipvalue = new Array(5,20,50,100,500);
         var nReceipts, nChipsum, nWinnings;
@@ -38,7 +38,7 @@
               var nSum = 0;
               for (var nI = 0; nI < sColor.length; nI++) {
                   var nEntry = parseInt(window.prompt("How many " + sColor[nI]+" chips?", "0"));
-                  document.write(sColor[nI] + " Chips: Quantity = " + nEntry + " and Value = $" + (nEntry * nValue[nI]) );        
+                  document.write(sColor[nI] + " Chips: Quantity = " + nEntry + " and Value = $" + (nEntry * nValue[nI]));        
                   nSum += nEntry * nValue[nI];
                 }
                 return nSum;
